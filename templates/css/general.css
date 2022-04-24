@@ -1,0 +1,11 @@
+.title {
+    font-size: 35px;
+}
+
+footer p {
+    text-align: center;
+}
+
+.disable-textarea {
+    resize: none;
+}
